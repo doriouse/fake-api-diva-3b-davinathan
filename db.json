@@ -16,7 +16,7 @@
             "id": 3,
             "nome": "Mtec-N Informártica",
             "disciplinas":["Redes I", "Redes II", "Redes III", "BD", "Sistemas Operacionais"],
-            "carga-horaria": 3600
+            "carga-horaria": 1200
         },
         {
             "id": 4,
