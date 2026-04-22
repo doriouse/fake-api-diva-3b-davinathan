@@ -8,9 +8,21 @@
         },
         {
             "id": 2,
-            "nome": "Mtec-N Informártica",
-            "disciplinas":["Redes I", "Redes II", "Redes III"],
+            "nome": "Modular/Tarde/Noite - Desenvolvimento de Sistemas",
+            "disciplinas":["PAM II", "WEB III", "BD"],
             "carga-horaria": 3600
+        },
+        {
+            "id": 3,
+            "nome": "Mtec-N Informártica",
+            "disciplinas":["Redes I", "Redes II", "Redes III", "BD", "Sistemas Operacionais"],
+            "carga-horaria": 3600
+        },
+        {
+            "id": 4,
+            "nome": "Mtec-N Informártica para Internet",
+            "disciplinas":["Programação Web", "BD", "Interfaces Web", "Marketing Digital e Empreendedorismo"],
+            "carga-horaria": 1200
         }
     ]
 }
